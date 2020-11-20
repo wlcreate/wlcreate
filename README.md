@@ -23,10 +23,10 @@ When away from my computer I'm a wizard who likes to
 
 ## 📈 Github Stats
 <a href="https://github.com/wlcreate/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlcreate&hide=scss,html&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=f4cd7c" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlcreate&layout=compact&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=f4cd7c" />
 </a>
 <a href="https://github.com/wlcreate/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlcreate&show_icons=true&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=f4cd7c" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlcreate&show_icons=true&hide=stars,issues&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=f4cd7c" />
 </a>
 
 ## 👋🏼 Let's connect
