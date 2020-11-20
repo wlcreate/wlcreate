@@ -1,5 +1,7 @@
 # Waverley Leung ✨
-![Hello!](https://media.giphy.com/media/S9E2cK3AHJ0wTjgL6J/giphy.gif)
+<p align="center">
+ <img src="https://media.giphy.com/media/S9E2cK3AHJ0wTjgL6J/giphy.gif" width=40% />
+</p>
 
 Hi there! I'm a Full Stack developer who is passionate about building and contributing to projects that improve productivity, bring people together, and encourage growth 🌱 I have experience with Ruby on Rails, JavaScript, and React.js/Redux but I embrace being a beginner and believe there is always something to learn or improve!
 
