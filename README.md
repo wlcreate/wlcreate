@@ -13,7 +13,7 @@ When away from my computer I'm a wizard who likes to
   
 <details>
   <summary> <i> A little funny for your day... </i> </summary>
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width=40%>  
+  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width=40%>  
 </details>
 
 ## 🤓 What I'm currently working on 
