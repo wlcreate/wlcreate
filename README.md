@@ -17,7 +17,7 @@ When away from my computer I'm a wizard who likes to
 </details>
 
 ## 🤓 What I'm currently working on 
-* Learning algorithms
+* Learning algorithms and data structures
 * Refractoring past apps
 * Writing blog posts on [Medium](https://waverley-place.medium.com/)
 
@@ -30,12 +30,17 @@ When away from my computer I'm a wizard who likes to
 </a>
 
 ## 👋🏼 Let's connect
-* Twitter: https://twitter.com/waverley_place
-* LinkedIn: https://www.linkedin.com/in/waverley-leung/
-* Medium: https://waverley-place.medium.com/
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/waverley_place)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/waverley-leung/)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://waverley-place.medium.com/)
 
 <!--
 **wlcreate/wlcreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+* Twitter: https://twitter.com/waverley_place
+* LinkedIn: https://www.linkedin.com/in/waverley-leung/
+* Medium: https://waverley-place.medium.com/
 
 Here are some ideas to get you started:
 
