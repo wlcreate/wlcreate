@@ -1,6 +1,7 @@
-# Waverley Leung ✨
+# Waverley Leung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <p align="center">
- <img src="https://media.giphy.com/media/S9E2cK3AHJ0wTjgL6J/giphy.gif" width=40% />
+ <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width=40% />
+<!--  <img src="https://media.giphy.com/media/S9E2cK3AHJ0wTjgL6J/giphy.gif" width=40% /> -->
 </p>
 
 Hi there! I'm a Full Stack developer who is passionate about building and contributing to projects that improve productivity, bring people together, and encourage growth 🌱 I have experience with Ruby on Rails, JavaScript, and React.js/Redux but I embrace being a beginner and believe there is always something to learn or improve!
@@ -29,7 +30,7 @@ When away from my computer I'm a wizard who likes to
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlcreate&show_icons=true&hide=stars,issues&line_height=30&issues&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=f4cd7c" />
 </a>
 
-## 👋🏼 Let's connect
+## 👩🏻‍💻 Let's connect
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/waverley_place)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/waverley-leung/)
