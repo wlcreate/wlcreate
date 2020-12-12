@@ -1,6 +1,7 @@
 # Waverley Leung ✨
 <p align="center">
- <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width=40% />
+ <img src="https://media.giphy.com/media/S6CCUz7PfIQen90pQI/giphy.gif" width=40% />
+<!--  <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width=40% /> -->
 <!--  <img src="https://media.giphy.com/media/S9E2cK3AHJ0wTjgL6J/giphy.gif" width=40% /> -->
 </p>
 
@@ -18,8 +19,8 @@ When away from my computer I'm a wizard who likes to
 </details>
 
 ## 🤓 What I'm currently working on 
-* Learning algorithms and data structures
-* Refractoring past apps
+* Learning & practicing algorithms and data structures
+* Learning Artificial Intelligence
 * Writing blog posts on [Medium](https://waverley-place.medium.com/)
 
 ## 📈 Github Stats
