@@ -18,9 +18,11 @@ When away from my computer I'm a wizard who likes to
   <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width=40%>  
 </details>
 
-## 🤓 What I'm currently working on 
-* Learning & practicing algorithms and data structures
+## 🤓 What I'm keeping busy with:
+* Working on a team with [The Collab Lab](https://the-collab-lab.codes) as part of the Winter 2021 cohort
+* Working as a Teaching Assistant as part of the Tech Talent Pipeline's Bootcamp at John Jay
 * Learning Artificial Intelligence as part of Udacity's Bertelsmann Scholarship (AI in Business Track)
+* Learning & practicing data structures and algorithms
 * Writing blog posts on [Medium](https://waverley-place.medium.com/)
 
 ## 📈 Github Stats
@@ -33,7 +35,7 @@ When away from my computer I'm a wizard who likes to
 
 ## 👩🏻‍💻 Let's Connect
 
-I love collaborating with others, so if you would like to work together reach out! Connect with me through my accounts below ⬇️ 
+Connect with me through my accounts below ⬇️ I love collaborating with others, so if you would like to work together reach out! 
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/waverley_place)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/waverley-leung/)
