@@ -25,6 +25,12 @@ When away from my computer I'm a wizard who likes to
 * Learning & practicing data structures and algorithms
 * Writing blog posts on [Medium](https://waverley-place.medium.com/)
 
+## 💪🏼 Check out some of my projects!
+* [Pit Stop](https://youtu.be/Sx4OchCFgm0) (travel journal - React/Redux/Rails) 
+* [LOCAL NYC](https://youtu.be/954c0xCiL9U) (recommendation - React/Rails)
+* [Coterie](https://youtu.be/FBEOMOhLc54) (community & communication - Ruby on Rails) 
+* <strong>Bonus</strong>: Coterie is [LIVE](https://guarded-escarpment-91959.herokuapp.com )!
+
 ## 📈 Github Stats
 <a href="https://github.com/wlcreate/top-langs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlcreate&layout=compact&card_width=270&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=f4cd7c" />
@@ -35,7 +41,7 @@ When away from my computer I'm a wizard who likes to
 
 ## 👩🏻‍💻 Let's Connect
 
-Connect with me through my accounts below ⬇️ I love collaborating with others, so if you would like to work together reach out! 
+Connect with me ⬇️ I love collaborating with others, so if you would like to work together reach out! 
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/waverley_place)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/waverley-leung/)
