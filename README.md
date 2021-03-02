@@ -5,7 +5,7 @@
 <!--  <img src="https://media.giphy.com/media/S9E2cK3AHJ0wTjgL6J/giphy.gif" width=40% /> -->
 </p>
 
-Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm a Full Stack developer who is passionate about building and contributing to projects that improve productivity, bring people together, and encourage growth 🌱 I have experience with Ruby on Rails, JavaScript, and React/Redux but I embrace being a beginner and believe there is always something to learn or improve!
+Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm a Full Stack developer who is passionate about building and contributing to projects that improve productivity, bring people together, and/or encourage growth 🌱 I have experience with Ruby on Rails, HTML, CSS, JavaScript, and React/Redux but I embrace being a beginner and believe there is always something to learn or improve!
 
 When away from my computer I'm a wizard who likes to
   * 🩰 dance to my heart's content
@@ -19,13 +19,12 @@ When away from my computer I'm a wizard who likes to
 </details>
 
 ## 🤓 What I'm keeping busy with:
-* Working on a team with [The Collab Lab](https://the-collab-lab.codes) as part of the Winter 2021 cohort
-* Working as a Teaching Assistant as part of the Tech Talent Pipeline's Bootcamp at John Jay
-* Learning Artificial Intelligence as part of Udacity's Bertelsmann Scholarship (AI in Business Track)
+* Collaborating on a team with [The Collab Lab](https://the-collab-lab.codes) as part of the Winter 2021 cohort
 * Learning & practicing data structures and algorithms
 * Writing blog posts on [Medium](https://waverley-place.medium.com/)
 
 ## 💪🏼 Check out some of my projects!
+* [Meat Cheese Bread](https://meatcheesebread.xyz) (smart shopping list - React/Firebase)
 * [Pit Stop](https://youtu.be/Sx4OchCFgm0) (travel journal - React/Redux/Rails) 
 * [LOCAL NYC](https://youtu.be/954c0xCiL9U) (recommendation - React/Rails)
 * [Coterie](https://youtu.be/FBEOMOhLc54) (community & communication - Ruby on Rails) 
