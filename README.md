@@ -11,7 +11,7 @@ When away from my computer I'm a wizard who likes to
   * 🩰 dance to my heart's content
   * 🍣 eat something yummy
   * 🎥 watch YouTube videos
-  * ...possibly all three at the same time?
+  * 🙈 ...sometimes all three at the same time?
   
 <details>
   <summary> <i> A little funny for your day... </i> </summary>
@@ -48,6 +48,12 @@ Connect with me ⬇️ I love collaborating with others, so if you would like to
 
 <!--
 **wlcreate/wlcreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align=center>We're currently under construction!</p>
+
+<p align=center>
+  <img src="https://media.giphy.com/media/5t20H3tq99Y1DYFuEX/giphy.gif" alt="Three workers are doing various construction tasks for the room" width=40% />
+</p>
 
 * Twitter: https://twitter.com/waverley_place
 * LinkedIn: https://www.linkedin.com/in/waverley-leung/
