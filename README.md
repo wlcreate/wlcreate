@@ -24,11 +24,11 @@ When away from my computer I'm a wizard who likes to
 * Writing blog posts on [Medium](https://waverley-place.medium.com/)
 
 ## 💪🏼 Check out some of my projects!
-* [Meat Cheese Bread](https://meatcheesebread.xyz) (smart shopping list - React/Firebase)
+* [Meat Cheese Bread](https://youtu.be/nDnrDOTV8zw) (smart shopping list - React/Firebase)
 * [Pit Stop](https://youtu.be/Sx4OchCFgm0) (travel journal - React/Redux/Rails) 
 * [LOCAL NYC](https://youtu.be/954c0xCiL9U) (recommendation - React/Rails)
 * [Coterie](https://youtu.be/FBEOMOhLc54) (community & communication - Ruby on Rails) 
-* <strong>Bonus</strong>: Coterie is [LIVE](https://guarded-escarpment-91959.herokuapp.com )!
+* <strong>Bonus</strong>: [Coterie](https://guarded-escarpment-91959.herokuapp.com) and [Meat Cheese Bread](https://meatcheesebread.xyz) are LIVE!
 
 ## 📈 Github Stats
 <a href="https://github.com/wlcreate/top-langs">
