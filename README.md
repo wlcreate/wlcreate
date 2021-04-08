@@ -20,6 +20,7 @@ When away from my computer I'm a wizard who likes to
 
 ## 🤓 What I'm keeping busy with:
 * Collaborating on a team with [The Collab Lab](https://the-collab-lab.codes) as part of the Winter 2021 cohort
+* Learning about UX Design
 * Learning & practicing data structures and algorithms
 * Writing blog posts on [Medium](https://waverley-place.medium.com/)
 
