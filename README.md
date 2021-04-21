@@ -5,7 +5,7 @@
 <!--  <img src="https://media.giphy.com/media/S9E2cK3AHJ0wTjgL6J/giphy.gif" width=40% /> -->
 </p>
 
-Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm a Full Stack developer who is passionate about building and contributing to projects that improve productivity, bring people together, and/or encourage growth 🌱 I have experience with Ruby on Rails, HTML, CSS, JavaScript, and React/Redux but I embrace being a beginner and believe there is always something to learn or improve!
+Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm a Full Stack developer who is passionate about building and contributing to projects that increase productivity, bring people together, and/or encourage growth 🌱 I have experience with Ruby on Rails, HTML, CSS, JavaScript, React/Redux, and NextJS, but I embrace being a beginner and believe there is always something to learn or improve!
 
 When away from my computer I'm a wizard who likes to
   * 🩰 dance to my heart's content
@@ -23,6 +23,20 @@ When away from my computer I'm a wizard who likes to
 * Learning about UX Design
 * Learning & practicing data structures and algorithms
 * Writing blog posts on [Medium](https://waverley-place.medium.com/)
+<details>
+  <summary> <i> Interested in what I'm writing? </i> </summary>
+  Latest post:
+ 
+ [How to set up a simple API with Node.js and Express](https://javascript.plainenglish.io/how-to-set-up-a-simple-api-with-node-js-and-express-1d7c13afc7cc)
+  
+  Favorites: <br>
+  [Fetch Requests and Controller Actions: Connecting the Frontend to the Backend](https://medium.com/swlh/fetch-requests-and-controller-actions-connecting-the-frontend-to-the-backend-733a87ffe757)
+  <br>
+  [React Basics: What’s the difference between JavaScript and JSX?](https://medium.com/weekly-webtips/react-basics-whats-the-difference-between-javascript-and-jsx-604dd224b1cf)
+  <br>
+  [React Basics: Components and the Importance of State](https://medium.com/swlh/react-basics-components-and-the-importance-of-state-dd26250e88ce)
+  
+</details>
 
 ## 💪🏼 Check out some of my projects!
 * [Meat Cheese Bread](https://youtu.be/nDnrDOTV8zw) (smart shopping list - React/Firebase)
