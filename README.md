@@ -20,16 +20,17 @@ When away from my computer I'm a wizard who likes to
 
 ## 🤓 What I'm keeping busy with:
 * Collaborating on a team with [The Collab Lab](https://the-collab-lab.codes) as part of the Winter 2021 cohort
-* Participating in Build@Mercari's program
-* Learning about UX Design through Coursera's Google UX Design
+* Participating in Build@Mercari's program as a Trainee
 * Learning & practicing data structures and algorithms
 * Writing blog posts on [Medium](https://waverley-place.medium.com/)
 * Collaborating on a Data Structures & Algo series on [dev.to](https://dev.to/wlcreate)
 <details>
   <summary> <i> Interested in what I'm writing? </i> </summary>
-  Latest post:
+  Latest posts:
  
- [How to set up a simple API with Node.js and Express](https://javascript.plainenglish.io/how-to-set-up-a-simple-api-with-node-js-and-express-1d7c13afc7cc)
+ [Methods You Can Use On Both JavaScript Strings and Arrays](https://javascript.plainenglish.io/javascript-methods-you-can-use-on-both-strings-and-arrays-3b40f4962285)
+ <br>
+ [Everything JavaScript Arrays & Array Methods!](https://medium.com/weekly-webtips/everything-javascript-arrays-array-methods-5e5809ffa4ad)
   
   Favorites: <br>
   [Fetch Requests and Controller Actions: Connecting the Frontend to the Backend](https://medium.com/swlh/fetch-requests-and-controller-actions-connecting-the-frontend-to-the-backend-733a87ffe757)
