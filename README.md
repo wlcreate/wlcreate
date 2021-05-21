@@ -19,8 +19,7 @@ When away from my computer I'm a wizard who likes to
 </details>
 
 ## 🤓 What I'm keeping busy with:
-* Collaborating on a team with [The Collab Lab](https://the-collab-lab.codes) as part of the Winter 2021 cohort
-* Participating in Build@Mercari's program as a Trainee
+* Working on [Start Asian Love](https://www.startalove.com)
 * Learning & practicing data structures and algorithms
 * Writing blog posts on [Medium](https://waverley-place.medium.com/)
 * Collaborating on a Data Structures & Algo series on [dev.to](https://dev.to/wlcreate)
