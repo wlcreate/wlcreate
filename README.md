@@ -5,7 +5,7 @@
 <!--  <img src="https://media.giphy.com/media/S9E2cK3AHJ0wTjgL6J/giphy.gif" width=40% /> -->
 </p>
 
-Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm a Full Stack developer who is passionate about building and contributing to projects that increase productivity, bring people together, and/or encourage growth 🌱 I have experience with Ruby on Rails, HTML, CSS, JavaScript, React/Redux, and NextJS, but I embrace being a beginner and believe there is always something to learn or improve!
+Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm a Full Stack developer who is passionate about building and contributing to projects that increase productivity, bring people together, and/or encourage growth 🌱 I have experience with Ruby on Rails, HTML, CSS, SASS, JavaScript, React/Redux, and Next.js, but I embrace being a beginner and believe there is always something to learn or improve!
 
 When away from my computer I'm a wizard who likes to
   * 🩰 dance to my heart's content
@@ -39,11 +39,12 @@ When away from my computer I'm a wizard who likes to
 </details>
 
 ## 💪🏼 Check out some of my projects!
+* [Start Asian Love](https://www.startalove.com) (advocacy & social justice - Next.js)
 * [Meat Cheese Bread](https://youtu.be/nDnrDOTV8zw) (smart shopping list - React/Firebase)
 * [Pit Stop](https://youtu.be/Sx4OchCFgm0) (travel journal - React/Redux/Rails) 
 * [LOCAL NYC](https://youtu.be/954c0xCiL9U) (recommendation - React/Rails)
 * [Coterie](https://youtu.be/FBEOMOhLc54) (community & communication - Ruby on Rails) 
-* <strong>Bonus</strong>: [Coterie](https://guarded-escarpment-91959.herokuapp.com) and [Meat Cheese Bread](https://meatcheesebread.xyz) are LIVE!
+* <strong>Bonus</strong>: [Start Asian Love](https://www.startalove.com), [Meat Cheese Bread](https://meatcheesebread.xyz), and [Coterie](https://guarded-escarpment-91959.herokuapp.com) are LIVE!
 
 ## 📈 Github Stats
 <a href="https://github.com/wlcreate/top-langs">
