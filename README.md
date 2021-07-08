@@ -39,8 +39,8 @@ When away from my computer I'm a wizard who likes to
 </details>
 
 ## 💪🏼 Check out some of my projects!
-* [Start Asian Love](https://www.startalove.com) (advocacy & social justice - Next.js)
-* [Meat Cheese Bread](https://youtu.be/nDnrDOTV8zw) (smart shopping list - React/Firebase)
+* [Start Asian Love](https://www.startalove.com) (advocacy - Next.js)
+* [Meat Cheese Bread](https://youtu.be/nDnrDOTV8zw) (smart shopping list - React/SASS/Firebase)
 * [Pit Stop](https://youtu.be/Sx4OchCFgm0) (travel journal - React/Redux/Rails) 
 * [LOCAL NYC](https://youtu.be/954c0xCiL9U) (recommendation - React/Rails)
 * [Coterie](https://youtu.be/FBEOMOhLc54) (community & communication - Ruby on Rails) 
