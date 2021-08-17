@@ -2,7 +2,6 @@
 <p align="center">
  <img src="https://media.giphy.com/media/S6CCUz7PfIQen90pQI/giphy.gif" width=40% />
 <!--  <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width=40% /> -->
-<!--  <img src="https://media.giphy.com/media/S9E2cK3AHJ0wTjgL6J/giphy.gif" width=40% /> -->
 </p>
 
 Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm a Full Stack developer who is passionate about building and contributing to projects that increase productivity, bring people together, and/or encourage growth 🌱 I have experience with Ruby on Rails, HTML, CSS, SASS, JavaScript, React/Redux, and Next.js, but I embrace being a beginner and believe there is always something to learn or improve!
@@ -70,10 +69,6 @@ Connect with me ⬇️ I love collaborating with others, so if you would like to
 <p align=center>
   <img src="https://media.giphy.com/media/5t20H3tq99Y1DYFuEX/giphy.gif" alt="Three workers are doing various construction tasks for the room" width=40% />
 </p>
-
-* Twitter: https://twitter.com/waverley_place
-* LinkedIn: https://www.linkedin.com/in/waverley-leung/
-* Medium: https://waverley-place.medium.com/
 
 Here are some ideas to get you started:
 
