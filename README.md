@@ -24,7 +24,7 @@ When away from my computer I'm a wizard who likes to
 * Collaborating on a Data Structures & Algo series on [dev.to](https://dev.to/wlcreate)
 <details>
   <summary> <i> Interested in what I'm writing? </i> </summary>
-  Latest posts:
+  Latest:
  
  [JavaScript Promises 101](https://medium.com/geekculture/javascript-promises-101-14f28158e5b9)
   
