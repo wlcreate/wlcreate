@@ -26,7 +26,7 @@ When away from my computer I'm a wizard who likes to
   <summary> <i> Interested in what I'm writing? </i> </summary>
   Latest posts:
  
- [A Beginner’s Guide to Testing and Unit Testing with Jest](https://levelup.gitconnected.com/a-beginners-guide-to-testing-and-unit-testing-with-jest-250d04e61117)
+ [JavaScript Promises 101](https://medium.com/geekculture/javascript-promises-101-14f28158e5b9)
   
   Favorites: <br>
   [Fetch Requests and Controller Actions: Connecting the Frontend to the Backend](https://medium.com/swlh/fetch-requests-and-controller-actions-connecting-the-frontend-to-the-backend-733a87ffe757)
@@ -34,11 +34,13 @@ When away from my computer I'm a wizard who likes to
   [React Basics: What’s the difference between JavaScript and JSX?](https://medium.com/weekly-webtips/react-basics-whats-the-difference-between-javascript-and-jsx-604dd224b1cf)
   <br>
   [React Basics: Components and the Importance of State](https://medium.com/swlh/react-basics-components-and-the-importance-of-state-dd26250e88ce)
+  <br>
+  [A Beginner’s Guide to Testing and Unit Testing with Jest](https://levelup.gitconnected.com/a-beginners-guide-to-testing-and-unit-testing-with-jest-250d04e61117)
   
 </details>
 
 ## 💪🏼 Check out some of my projects!
-* [Start Asian Love](https://www.startalove.com) (advocacy - Next.js)
+* [Start Asian Love](https://www.startalove.com) (advocacy - Next.js/SASS/Sanity)
 * [Meat Cheese Bread](https://youtu.be/nDnrDOTV8zw) (smart shopping list - React/SASS/Firebase)
 * [Pit Stop](https://youtu.be/Sx4OchCFgm0) (travel journal - React/Redux/Rails) 
 * [LOCAL NYC](https://youtu.be/954c0xCiL9U) (recommendation - React/Rails)
