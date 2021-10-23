@@ -4,7 +4,7 @@
 <!--  <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width=40% /> -->
 </p>
 
-Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm a Full Stack developer who is passionate about building and contributing to projects that increase productivity, bring people together, and/or encourage growth 🌱 I have experience with Ruby on Rails, HTML, CSS, SASS, JavaScript, React/Redux, and Next.js, but I embrace being a beginner and believe there is always something to learn or improve!
+Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm a Full Stack Software Engineer who is passionate about building and contributing to projects that increase productivity, bring people together, and/or encourage growth 🌱 I have experience with Ruby on Rails, Node.js, HTML, CSS, SASS, JavaScript, TypeScript, React/Redux, and Next.js, but I embrace being a beginner and believe there is always something to learn or improve!
 
 When away from my computer I'm a wizard who likes to
   * 🩰 dance to my heart's content
