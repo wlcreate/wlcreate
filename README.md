@@ -26,7 +26,7 @@ When away from my computer I'm a wizard who likes to
   <summary> <i> Interested in what I'm writing? </i> </summary>
   Latest:
  
- [JavaScript Promises 101](https://medium.com/geekculture/javascript-promises-101-14f28158e5b9)
+ [All About Rendering: Client and Server](https://javascript.plainenglish.io/all-about-rendering-client-and-server-efc94b117460)
   
   Favorites: <br>
   [Fetch Requests and Controller Actions: Connecting the Frontend to the Backend](https://medium.com/swlh/fetch-requests-and-controller-actions-connecting-the-frontend-to-the-backend-733a87ffe757)
