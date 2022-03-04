@@ -45,7 +45,7 @@ When away from my computer I'm a wizard who likes to
 * [Pit Stop](https://youtu.be/Sx4OchCFgm0) (travel journal - React/Redux/Rails) 
 * [LOCAL NYC](https://youtu.be/954c0xCiL9U) (recommendation - React/Rails)
 * [Coterie](https://youtu.be/FBEOMOhLc54) (community & communication - Ruby on Rails) 
-* <strong>Bonus</strong>: [Start Asian Love](https://www.startalove.com), [Meat Cheese Bread](https://meatcheesebread.xyz), and [Coterie](https://guarded-escarpment-91959.herokuapp.com) are LIVE!
+* <strong>Bonus</strong>: [Start Asian Love](https://www.startalove.com), [Meat Cheese Bread](https://tcl-16-smart-shopping-list.netlify.app/), and [Coterie](https://guarded-escarpment-91959.herokuapp.com) are LIVE!
 
 ## 📈 Github Stats
 <a href="https://github.com/wlcreate/top-langs">
