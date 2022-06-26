@@ -4,7 +4,7 @@
 <!--  <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width=40% /> -->
 </p>
 
-Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm a Full Stack Software Engineer who is passionate about building and contributing to projects that increase productivity, bring people together, and/or encourage growth 🌱 I have experience with Ruby on Rails, Node.js, HTML, CSS, SASS, JavaScript, TypeScript, React/Redux, and Next.js, but I embrace being a beginner and believe there is always something to learn or improve!
+Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> I'm a Full Stack Software Engineer who is passionate about building and contributing to projects that increase productivity, bring people together, and/or encourage growth 🌱 I have experience with Ruby on Rails, Node.js, HTML, CSS, SASS, JavaScript, TypeScript, React/Redux, and Next.js, but I embrace being a beginner and believe there is always something to learn or improve!
 
 When away from my computer I'm a wizard who likes to
   * 🩰 dance to my heart's content
@@ -40,12 +40,12 @@ When away from my computer I'm a wizard who likes to
 </details>
 
 ## 💪🏼 Check out some of my projects!
-* [Start Asian Love](https://www.startalove.com) (advocacy - Next.js/SASS/Sanity)
+* [Start Asian Love](https://start-asian-love.vercel.app/) (advocacy - Next.js/SASS/Sanity)
 * [Meat Cheese Bread](https://youtu.be/nDnrDOTV8zw) (smart shopping list - React/SASS/Firebase)
 * [Pit Stop](https://youtu.be/Sx4OchCFgm0) (travel journal - React/Redux/Rails) 
 * [LOCAL NYC](https://youtu.be/954c0xCiL9U) (recommendation - React/Rails)
 * [Coterie](https://youtu.be/FBEOMOhLc54) (community & communication - Ruby on Rails) 
-* <strong>Bonus</strong>: [Start Asian Love](https://www.startalove.com), [Meat Cheese Bread](https://tcl-16-smart-shopping-list.netlify.app/), and [Coterie](https://guarded-escarpment-91959.herokuapp.com) are LIVE!
+* <strong>Bonus</strong>: [Start Asian Love](https://start-asian-love.vercel.app/), [Meat Cheese Bread](https://tcl-16-smart-shopping-list.netlify.app/), and [Coterie](https://guarded-escarpment-91959.herokuapp.com) are LIVE!
 
 ## 📈 Github Stats
 <a href="https://github.com/wlcreate/top-langs">
