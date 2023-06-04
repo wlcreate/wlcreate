@@ -18,8 +18,7 @@ When away from my computer I'm a wizard who likes to
 </details>
 
 ## 🤓 What I'm keeping busy with:
-* Working on [Start Asian Love](https://www.startalove.com)
-* Learning & practicing data structures and algorithms
+* Working on [Start Asian Love](https://start-asian-love.vercel.app/)
 * Writing blog posts on [Medium](https://waverley-place.medium.com/)
 * Collaborating on a Data Structures & Algo series on [dev.to](https://dev.to/wlcreate)
 <details>
